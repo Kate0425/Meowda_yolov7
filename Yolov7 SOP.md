@@ -8,7 +8,7 @@
 ![Anaconda](https://github.com/Kate0425/Meowda_yolov7/blob/main/Meowda_Sop_picture/Anaconda.png)
 
 
-- 安裝後打開"開始"並搜尋"Anaconda Prompt (anaconda3)"
+- 安裝後打開"開始"並搜尋 **Anaconda Prompt (anaconda3)**
   
    ![prompt](https://github.com/Kate0425/Meowda_yolov7/blob/main/Meowda_Sop_picture/prompt.png)
 
